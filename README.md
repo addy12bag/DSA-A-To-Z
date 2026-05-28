@@ -24,6 +24,7 @@
 ## 📌 Table of Contents
 
 - [📖 About](#-about)
+- [🔥 Currently Ongoing](#-currently-ongoing)
 - [🗂️ Repository Structure](#️-repository-structure)
 - [🧩 Topics Covered](#-topics-covered)
 - [🚀 Getting Started](#-getting-started)
@@ -43,6 +44,49 @@
 - Provide **clean, well-commented solutions** in multiple languages
 - Track problems from **LeetCode, GFG, Codeforces, HackerRank**, and more
 - Be a **study companion** for coding interviews and competitive programming
+
+---
+
+## 🔥 Currently Ongoing
+
+> Last Updated: **May 2026** — Here's what's actively being built right now in this vault!
+
+### 🚧 Active Work This Month
+
+| Topic | What's Being Added | Status |
+|-------|--------------------|--------|
+| 🌲 **Trees** | Binary Tree traversals, LCA, Height problems | 🔨 In Progress |
+| 📊 **Dynamic Programming** | 1D DP series — Fibonacci, House Robber, Climbing Stairs | 🔨 In Progress |
+| 🔗 **Linked Lists** | Reversal patterns, Slow-Fast pointer problems | ✅ Nearly Done |
+| 🧮 **Sliding Window** | Fixed & Variable window problems from LeetCode | 🔨 In Progress |
+| 🗺️ **Graphs** | BFS/DFS fundamentals + Cycle Detection | 🔜 Starting Soon |
+
+---
+
+### 💡 Focus Pattern for 2026 Interviews
+
+Based on current interview trends, this vault is being built around **15–20 core problem-solving patterns** that cover ~90% of all coding interview questions:
+
+```
+✅ Two Pointers          ✅ Sliding Window
+✅ Binary Search         🔨 BFS / DFS Traversal
+🔨 Dynamic Programming   🔨 Tree Recursion
+🔜 Graph Algorithms      🔜 Backtracking
+🔜 Greedy Techniques     🔜 Bit Manipulation
+```
+
+---
+
+### 📅 Upcoming Additions (Next 30 Days)
+
+- [ ] **Graph Series** — Dijkstra, Bellman-Ford, Floyd-Warshall
+- [ ] **DP Patterns** — Knapsack, LCS, Matrix Chain Multiplication
+- [ ] **Tree Advanced** — Segment Trees, Fenwick Trees
+- [ ] **System Design Basics** — Intro notes alongside DSA
+- [ ] **Problem-wise Notes** — PDF cheat sheets for each topic
+- [ ] **Language Support** — Adding Java & Python versions of all C++ solutions
+
+> 💬 **Want a specific topic added faster?** [Open a request issue](https://github.com/addy12bag/DSA-A-To-Z/issues) and it'll be prioritized!
 
 ---
 
